@@ -87,3 +87,4 @@ let o = classroom.batches[0].students[0].name;
 let f = classroom.batches[0].students[1].name;
 //console.log(classroom.batches[0].students[0].name,classroom.batches[0].students[0].scores[2])
 //console.log(classroom.batches[0].students[1].name,classroom.batches[0].students[1].scores[2])
+/*Ahmdc Montaser*/
